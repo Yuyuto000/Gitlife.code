@@ -1,1 +1,3 @@
 # Gitlife.code
+
+まさかここ？

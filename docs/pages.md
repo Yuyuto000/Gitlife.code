@@ -1,3 +1,0 @@
-# gitlife.code
-## feature
-なんだろうね
